@@ -10,4 +10,9 @@ Teacher has access to all information of students enrolled under course taught b
 
 ## Screenshots of the Application
 
-<img src="https://github.com/gargk747/Attendance-Management-System" width="300">
+<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/welcome_screen.jpg" width="300">
+<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/login_screen.jpg" width="300">
+<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/admin_login.jpg" width="300">
+<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/faculty_login.jpg" width="300">
+<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/admin_homepage.jpg" width="300">
+<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/faculty_homepage.jpg" width="300">
