@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\a2bb15305bc939cd3ba2933d694faae705017fa6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53762fb1daacc5e5fb9ce83c4d00365f71c10f1a">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_952f0c16472d3995c5d78d2a9fd61ba72bf4f6a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\a863446bdaa2d0a42a8d04517f787912e7b24aac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f9f219b8a8acc35922ab06f4ff29769041481b4b">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_c7375294e6674304efd669fe4eabe2b962f00dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\6103eb5d2babe6b9a403b1ee8bce6992a1836320\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4a446c110c5a9f3a62907367d5eea4d4062c36a">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_a1012c3f64bb4e67f3e5edb10d5c025d6cc4cd50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\87280805e98fab5684d9be737dfd103e455d224a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94d358351559620a2c3d2ba3ac04d03a59a61bb3">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_f4c3683cff4238244a9e58c300bc762cf50db541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\337818950857ad0dabfe3da27690521f7b44f8f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138b5e3a5341bb37117b13f327de68f81f9f0669">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_38f6d26f76dd697b948fa615420d5a8fdfbe4306.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.2\8b68a849722b44f584e2d68c451c5e3844c10380\support-annotations-26.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.2_c2b9c3879067bf42a1ef0cb3588cc4921a1b7c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\4a7be1cf5ad879a997ddfcf25cbcee51db0dd209\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="97cd0ab3ffad045a162fc1a413fe6abc58e199c4">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_8076de5a44c08b628fc1c59cca65e206040a2d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\0c5def4a767683ba097883c46cf771f9f21d4b94\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_02e13bb862a093e083f30856ebffc4b404f1a8c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\b03407fedd63f89d31857959e483703d9c1e9e61\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df0c541b5406292d1c3d74fc8ea119bde14e77b0">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_a8f53927b20458f6acd4adef1fc43a332894fb40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\4f267de9ca89c0b958852e38467276de2cdb12e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_e75de597ce2feeae7c73172a78d514f1afedbb27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\26d37d7c65c6cefebb209f9ee9719980d508d8ff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48a969b476c5c4bd8cabfe295428ff222bc68b8e">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_44f07b2a6a49f27de1a71484b89ad67e96de140a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\9f10d5665c7460462965a3fa0fc6be0da27b5491\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4e38f488b591fa8ef9dce3e21752c92bde5f6f7c">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_b535b5ab5988029f8ad02cec266549001f5a39b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_06946ec480a4fc2345170383191cbc786f615660.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\eab0f6852e372ff90124309678909e114b01da9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="28cb30c89c8e501ded77e960407731df6c54b844">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_d1df3bde51cdfaeb2f03710dcb3ea8de91d13177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\ecfd500572cec9d5e559a14936c5b535a11ca685\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eef44a34be1eef845ecb4072e3692b434af05ad4">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_a8d74f2afd5228585a17b6e1beaf845eb81f294f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gargk\.android\build-cache\d088fccebde25998874d238d217edce7ca7e8ca2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6e937fc4829662d169f20da6f208e053f3714a8">
+        <dex dex="C:\Users\gargk\Downloads\AttendanceMS-master\AttendanceMS-master\AttendanceMS-App\app\build\intermediates\pre-dexed\debug\classes_25472ef4e82080e9042ce719a88da938e43ae526.jar" />
+    </item>
+
+</items>
