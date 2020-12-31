@@ -10,9 +10,24 @@ Teacher has access to all information of students enrolled under course taught b
 
 ## Screenshots of the Application
 
-<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/welcome_screen.jpg" width="300">
-<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/login_screen.jpg" width="300">
-<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/admin_login.jpg" width="300">
-<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/faculty_login.jpg" width="300">
-<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/admin_homepage.jpg" width="300">
-<img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/faculty_homepage.jpg" width="300">
+<table>   
+  <tr>
+    <td><img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/welcome_screen.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/login_screen.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/admin_login.jpg" width=270 height=480></td>
+  </tr>
+  <tr>
+   <td align="center">↑ Welcome Screen ↑</td>
+   <td align="center">↑ Login Screen ↑</td>
+   <td align="center">↑ Admin Login ↑</td>
+  <tr>
+    <td><img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/faculty_login.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/admin_homepage.jpg" width=270 height=480></td>
+    <td><img src="https://github.com/gargk747/Attendance-Management-System/blob/master/Screenshots/faculty_homepage.jpg" width=270 height=480></td>
+  </tr>
+ <tr>
+   <td align="center">↑ Faculty Login ↑</td>
+   <td align="center">↑ Admin Homepage ↑</td>
+   <td align="center">↑ Faculty Homepage ↑</td>
+  <tr>
+ </table>
