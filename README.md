@@ -6,7 +6,7 @@ Classroom Attendance Management System is a Mobile Application developed for dai
 Admin has access to all information related teachers, students, courses and attendance reports. Admin can insert, update, delete any details regarding courses, students and teachers. Admin enrolls students in courses and decide which course will be taught by which teacher. Admin also manages attendance reports of all the students currently in institution.
 
 ### 2. Faculty
-Teacher has access to all information of students enrolled under course taught by him. Teacher has the responsibility of taking digitized attendance of all students under him. Teacher can also update his profile.
+Teacher has access to all information of students enrolled under course taught by him. Teacher has the responsibility of taking digitized attendance of all students under him. Teacher can also update his profile. Teachers can also take the output of the Attendance sheet for his/her reference.
 
 ## Screenshots of the Application
 
